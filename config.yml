@@ -7,6 +7,9 @@ pygmentsUseClasses:     true
 # you can use ```lang if you want too
 pygmentsCodeFences:     true
 
+markup:
+  defaultMarkdownHandler: blackfriday
+
 buildDrafts:            true
 buildFuture:            true
 
